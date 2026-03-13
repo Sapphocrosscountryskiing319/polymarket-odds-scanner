@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.db
+logs/
+.poly_sports_cache.json
+.env
